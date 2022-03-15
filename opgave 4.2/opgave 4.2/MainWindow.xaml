@@ -1,0 +1,20 @@
+﻿<Window x:Class="opgave_4._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:opgave_4._2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="180" Width="420">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="20,32,0,0" VerticalAlignment="Top" Width="120" Name="txtbxAmount"/>
+        <TextBlock HorizontalAlignment="Left" Margin="20,12,0,0" Text="radius" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="160,32,0,0" Text="omtrek" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="230,32,0,0" Name="txtblOmtrek" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="160,72,0,0" Text="oppervlakte" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="230,72,0,0" Name="txtblOppervlakte" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="160,112,0,0" Text="volume" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="230,112,0,0" Name="txtblVolume" VerticalAlignment="Top"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="20,112,0,0" VerticalAlignment="Top" Width="120" Name="btnCalculate"/>
+    </Grid>
+</Window>

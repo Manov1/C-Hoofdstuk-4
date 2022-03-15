@@ -1,0 +1,16 @@
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8.csproj.AssemblyReference.cache
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8.csproj.SuggestedBindingRedirects.cache
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\App.g.cs
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8_MarkupCompile.cache
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\bin\Debug\opgave 4.8.exe.config
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\bin\Debug\opgave 4.8.exe
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\bin\Debug\opgave 4.8.pdb
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\MainWindow.g.cs
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8_MarkupCompile.lref
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\MainWindow.baml
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8.g.resources
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave_4._8.Properties.Resources.resources
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8.csproj.GenerateResource.cache
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8.csproj.CoreCompileInputs.cache
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8.exe
+C:\Users\manov\source\repos\opgave 4.8\opgave 4.8\obj\Debug\opgave 4.8.pdb
